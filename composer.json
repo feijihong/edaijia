@@ -9,9 +9,6 @@
       "email": "lyolzj@sina.com"
     }
   ],
-  "config": {  
-    "secure-http": false
-  },
   "require": {
     "php": ">=5.3.0"
   },
